@@ -9,7 +9,7 @@ Make sure you have Python installed on your computer.
 Clone the repository and install the prerequisites.
 
 ```bash
-git clone https://github.com
+git clone https://github.com/wistrasy/eGain_Assignment.git
 cd eGain_Assignment
 ```
 
