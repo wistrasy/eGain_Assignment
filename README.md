@@ -8,7 +8,14 @@ Make sure you have Python installed on your computer.
 ### Installation
 Clone the repository and install the prerequisites.
 
+```bash
+git clone https://github.com
+cd eGain_Assignment
+```
+
 ### Usage examples
+launch the bot using py main.py.
+
 An example of the user quickly navigating the options, but finding the report from the database suspicious and asking for human support: <br>
 ![App Dashboard Mockup](./assets/Smooth_but_suspect_wait_time.png) <br>
 
